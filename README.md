@@ -31,7 +31,7 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
     - Our target variable is **Loan Status**.
     - Features: Loan_ID, Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area.
     - The columns are self explanatory and the sample data is as follows.
-    - 
+      
 2. **Data Preparation:**
     - There were no duplicates in the historical dataset.
     - Missing values were present in the columns - 'Gender', 'Married', 'Self_Employed', 'Dependents’, 'LoanAmount', 'Loan_Amount_Term', 'Credit_History’.
