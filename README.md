@@ -28,8 +28,7 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
 
 1. **Data Understanding:**
     - Gathered historical data on home loan applicants, including demographic information, financial records, loan details and loan outcomes.
-    - The data has 614 records/rows with 13 columns.
-    - Our target variable is **Loan Status** - Y (422), N(192)
+    - Our target variable is **Loan Status**.
     - Features: Loan_ID, Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area.
     - The columns are self explanatory and the sample data is as follows.
     - 
@@ -54,11 +53,10 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
 ## **Challenges and Limitations**
 
 1. **Data Quality and Availability:** The quality and availability of historical data may vary, leading to challenges in building accurate predictive models. Missing or incomplete data, as well as biases in the data, can affect model performance.
-2. **Model Interpretability:** Complex machine learning models such as gradient boosting or neural networks may lack interpretability, making it difficult to explain the reasoning behind credit decisions to stakeholders or regulatory authorities.
-3. **Regulatory Compliance:** Standard Bank must ensure that the deployed machine learning model complies with regulatory requirements and ethical guidelines for credit risk assessment. This includes fairness, transparency, and accountability in decision-making processes.
-4. **Overfitting and Generalization:** There is a risk of overfitting the model to the training data, leading to poor generalization performance on unseen data. Regularization techniques and careful model selection can help mitigate this risk.
-5. **Dynamic Market Conditions:** Economic fluctuations and changes in market conditions may impact the performance of the credit risk assessment model over time. Regular monitoring and updating of the model are necessary to adapt to changing circumstances.
-6. **Customer Privacy and Data Security:** Standard Bank must prioritize customer privacy and data security when handling sensitive financial information. Implementing robust data encryption, access controls, and compliance measures is essential to protect customer data from unauthorized access or misuse.
+2. **Regulatory Compliance:** Standard Bank must ensure that the deployed machine learning model complies with regulatory requirements and ethical guidelines for credit risk assessment. This includes fairness, transparency, and accountability in decision-making processes.
+3. **Overfitting and Generalization:** There is a risk of overfitting the model to the training data, leading to poor generalization performance on unseen data. Regularization techniques and careful model selection can help mitigate this risk.
+4. **Dynamic Market Conditions:** Economic fluctuations and changes in market conditions may impact the performance of the credit risk assessment model over time. Regular monitoring and updating of the model are necessary to adapt to changing circumstances.
+5. **Customer Privacy and Data Security:** Standard Bank must prioritize customer privacy and data security when handling sensitive financial information. Implementing robust data encryption, access controls, and compliance measures is essential to protect customer data from unauthorized access or misuse.
 
 ## Conclusion
 
