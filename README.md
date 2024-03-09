@@ -10,10 +10,14 @@ Standard Bank aims to improve the efficiency and convenience of their home loan 
 
 ## Stakeholders
 
-**Standard Bank:** The primary stakeholder responsible for implementing the machine learning solution and improving the home loan application process.
-**Loan Applicants:** Individuals seeking home loans from Standard Bank who will benefit from a faster and more efficient application process.
-**Loan Officers:** Bank employees involved in processing home loan applications, who will benefit from reduced manual workload and increased efficiency.
-**Regulatory Authorities:** Entities responsible for overseeing banking regulations and ensuring compliance with credit risk assessment standards.
+**Standard Bank:** The primary stakeholder responsible for implementing the machine learning solution and improving the home loan application process.  
+
+**Loan Applicants:** Individuals seeking home loans from Standard Bank who will benefit from a faster and more efficient application process.  
+
+**Loan Officers:** Bank employees involved in processing home loan applications, who will benefit from reduced manual workload and increased efficiency.  
+
+**Regulatory Authorities:** Entities responsible for overseeing banking regulations and ensuring compliance with credit risk assessment standards.  
+
 
 ## Advantages of Implementing this Solution
 
