@@ -11,19 +11,15 @@ Standard Bank aims to improve the efficiency and convenience of their home loan 
 ## Stakeholders
 
 **Standard Bank:** The primary stakeholder responsible for implementing the machine learning solution and improving the home loan application process.  
-
 **Loan Applicants:** Individuals seeking home loans from Standard Bank who will benefit from a faster and more efficient application process.  
-
 **Loan Officers:** Bank employees involved in processing home loan applications, who will benefit from reduced manual workload and increased efficiency.  
-
 **Regulatory Authorities:** Entities responsible for overseeing banking regulations and ensuring compliance with credit risk assessment standards.  
-
 
 ## Advantages of Implementing this Solution
 
-**Improved Efficiency:** By automating the credit assessment process, Standard Bank can significantly reduce the time it takes to process home loan applications from days to minutes, providing a faster and more convenient experience for applicants.
-**Better Customer Experience:** Applicants will receive immediate feedback on their loan applications, enhancing customer satisfaction and loyalty.
-**Risk Mitigation:** By leveraging predictive modeling, Standard Bank can better assess credit risk and make informed decisions to minimize default rates and loan losses.
+**Improved Efficiency:** By automating the credit assessment process, Standard Bank can significantly reduce the time it takes to process home loan applications from days to minutes, providing a faster and more convenient experience for applicants.  
+**Better Customer Experience:** Applicants will receive immediate feedback on their loan applications, enhancing customer satisfaction and loyalty.  
+**Risk Mitigation:** By leveraging predictive modeling, Standard Bank can better assess credit risk and make informed decisions to minimize default rates and loan losses.  
 
 Overall, implementing a machine learning solution to assess creditworthiness aligns with Standard Bank's goal of leveraging technology to enhance customer experience, optimize operations, and maintain its position as a leading financial institution in Africa.
 
