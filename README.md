@@ -44,9 +44,12 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
 
 From this we can see that there is a class imbalance, this is later dealth with use of technique called SMOTE(Synthetic Minority Over-sampling TEchnique).  
 
+
 ![Correlation Plot](./images/corr.jpg)  
 
-We can see there isn't any strong correlation betweent the variables, but Loan Status and Applicant's Income seems some what correlated.
+
+We can see there isn't any strong correlation betweent the variables, but Loan Status and Applicant's Income seems some what correlated.  
+
 
 <!--
 ![Pairwise Plots](./images/pairplot.jpg)  
@@ -56,11 +59,11 @@ From these plots, we can say that there isn't that much of a correlation.
 
 -->
 
-Let's plot the distribution of counts for the variables with respect to the target variable.
+Let's plot the distribution of counts for the variables with respect to the target variable.  
+
 ![Loan Default vs Variables](./images/vars_wrt_y.jpg)  
 
-
-
+  
 4. **Data Preparation:**
     - Split the data into training and test sets.
     - Encoded the categorical variables and performed scaling operation on the numerical features.
