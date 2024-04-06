@@ -40,15 +40,25 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
         - Mean - for numerical features.
 3. **Exploratory Data Analysis:**
 
-![Loan Default Distribution](./images/loan_default.jpg)
+![Loan Default Distribution](./images/loan_default.jpg)  
 
-![Correlation Plot](./images/corr.jpg)
+From this we can see that there is a class imbalance, this is later dealth with use of technique called SMOTE(Synthetic Minority Over-sampling TEchnique).  
 
-![Pairwise Plots](./images/pairplot.jpg)
+![Correlation Plot](./images/corr.jpg)  
 
-![Distribution Plots](./images/distplot.jpg)
+We can see there isn't any strong correlation betweent the variables, but Loan Status and Applicant's Income seems some what correlated.
 
-![Loan Default vs Variables](./images/vars_wrt_y.jpg)
+<!--
+![Pairwise Plots](./images/pairplot.jpg)  
+From these plots, we can say that there isn't that much of a correlation.
+
+![Distribution Plots](./images/distplot.jpg)  
+
+-->
+
+Let's plot the distribution of counts for the variables with respect to the target variable.
+![Loan Default vs Variables](./images/vars_wrt_y.jpg)  
+
 
 
 4. **Data Preparation:**
