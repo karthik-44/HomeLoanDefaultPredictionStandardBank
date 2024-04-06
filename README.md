@@ -38,21 +38,32 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
     - Strategy for replacing the missing values:
         - Most frequent item - for categorical features.
         - Mean - for numerical features.
+3. **Exploratory Data Analysis:**
+
+![Loan Default Distribution](./images/loan_default.jpg)
+
+![Correlation Plot](./images/corr.jpg)
+
+![Pairwise Plots](./images/pairplot.jpg)
+
+![Distribution Plots](./images/distplot.jpg)
+
+![Loan Default vs Variables](./images/vars_wrt_y.jpg)
 
 
-3. **Data Preparation:**
+4. **Data Preparation:**
     - Split the data into training and test sets.
     - Encoded the categorical variables and performed scaling operation on the numerical features.
 
-4. **Modeling:**
+6. **Modeling:**
     - Selected appropriate machine learning algorithm for credit risk assessment, such as logistic regression initially and later tested other classification methods such as Support Vector Classifier.
     - Trained multiple models on the training data and tune hyperparameters using cross-validation.
       
-6. **Evaluation:**
+7. **Evaluation:**
     - Evaluated model performance using metrics such as accuracy, F1-score, and Classification Report.
     - Compared the performance of different models and select the best-performing one based on the success criteria defined earlier.
       
-7. **Deployment:**
+8. **Deployment:**
     - Deploy the selected machine learning model into a production environment, such as Standard Bank's loan application system.
     - Monitor the model's performance and recalibrate as necessary to ensure continued accuracy and effectiveness.
 
