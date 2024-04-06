@@ -69,12 +69,13 @@ Let's plot the distribution of counts for the variables with respect to the targ
     - Encoded the categorical variables and performed scaling operation on the numerical features.
 
 6. **Modeling:**
-    - Selected appropriate machine learning algorithm for credit risk assessment, such as logistic regression initially and later tested other classification methods such as Support Vector Classifier.
+    - Selected appropriate machine learning algorithm for credit risk assessment, such as logistic regression initially and later tested other classification methods such as Support Vector Classifier, Random Forest Classifier.
     - Trained multiple models on the training data and tune hyperparameters using cross-validation.
       
 7. **Evaluation:**
-    - Evaluated model performance using metrics such as accuracy, F1-score, and Classification Report.
+    - Evaluated model performance using metrics such as accuracy, F1-score, roc_auc_score and Classification Report.
     - Compared the performance of different models and select the best-performing one based on the success criteria defined earlier.
+    - Found that for this dataset, Logistic Regression Model performed better when compared to other models after hyper-parameter-tuning.
       
 8. **Deployment:**
     - Deploy the selected machine learning model into a production environment, such as Standard Bank's loan application system.
