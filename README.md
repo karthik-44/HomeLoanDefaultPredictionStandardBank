@@ -43,12 +43,15 @@ Overall, implementing a machine learning solution to assess creditworthiness ali
 3. **Data Preparation:**
     - Split the data into training and test sets.
     - Encoded the categorical variables and performed scaling operation on the numerical features.
-5. 3. **Modeling:**
+
+4. **Modeling:**
     - Selected appropriate machine learning algorithm for credit risk assessment, such as logistic regression initially and later tested other classification methods such as Support Vector Classifier.
     - Trained multiple models on the training data and tune hyperparameters using cross-validation.
+      
 6. **Evaluation:**
     - Evaluated model performance using metrics such as accuracy, F1-score, and Classification Report.
     - Compared the performance of different models and select the best-performing one based on the success criteria defined earlier.
+      
 7. **Deployment:**
     - Deploy the selected machine learning model into a production environment, such as Standard Bank's loan application system.
     - Monitor the model's performance and recalibrate as necessary to ensure continued accuracy and effectiveness.
